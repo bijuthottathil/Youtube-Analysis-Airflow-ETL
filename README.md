@@ -9,5 +9,5 @@ Basically there are 4 steps involved
 
    1. Software installations and Setup
    2. Extracting the data from Youtube Data API
-   3 Transforming the data using PySpark
+   3. Transforming the data using PySpark
    4. Loading the data into AWS S3
