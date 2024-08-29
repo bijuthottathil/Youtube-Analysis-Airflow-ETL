@@ -1,7 +1,8 @@
 Overall architecture is like below
 
 
-![image](https://github.com/user-attachments/assets/70cbb0ab-a791-48a7-96af-8457bab9d1d1)
+![image](https://github.com/user-attachments/assets/e4a45e95-d595-4283-aa20-7e028c94f1c8)
+
 
 Basically there are 4 steps involved
 
